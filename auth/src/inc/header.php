@@ -15,7 +15,7 @@ $layout = (($page_layout ?? 'default') === 'auth') ? 'layout-auth' : 'layout-def
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title><?= htmlspecialchars($title) ?></title>
 
-  <link rel="stylesheet" href="../public/style.css">
+  <link rel="stylesheet" href="/public/style.css">
 </head>
 <body class="<?= $layout ?>">
   <header class="site-header">
