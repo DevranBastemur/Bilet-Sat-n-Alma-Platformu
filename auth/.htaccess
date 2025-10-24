@@ -1,0 +1,7 @@
+RewriteEngine On
+
+
+RewriteRule ^$ /public [R=302,L]
+
+RewriteRule ^(index\.html|index\.php)$ /public [R=302,L]
+
