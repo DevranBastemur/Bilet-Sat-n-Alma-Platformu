@@ -2,7 +2,7 @@
 
 
 if (!defined('BASE_URL')) {
-    define('BASE_URL', '/OTOBUS/auth/public'); 
+    define('BASE_URL', '/public'); 
 }
 
 function view(string $filename, array $data = []): void
