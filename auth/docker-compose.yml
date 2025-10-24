@@ -1,0 +1,9 @@
+version: '3.8'
+services:
+  web:
+    build: .
+    container_name: bilet_satin_alma_app
+    ports:
+      - "8080:80"
+    volumes:
+      - .:/var/www/html
