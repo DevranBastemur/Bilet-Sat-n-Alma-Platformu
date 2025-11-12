@@ -1,1 +1,1 @@
-Siber Vatan  Yavuzlar Takımı Kapsamında geliştirdiğim biet satın alma platformu.
+Siber Vatan  Yavuzlar Takımı Kapsamında geliştirdiğim bilet satın alma platformu.
